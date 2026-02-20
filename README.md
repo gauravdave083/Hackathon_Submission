@@ -10,7 +10,7 @@ The airline retailing ecosystem, heavily powered by NDC APIs, has grown highly c
 
 Modern airline retail complexity impacts every function across the enterprise, creating heavy dependence on tribal knowledge.
 
-## Refer to the [handbook](Handbook.pdf)
+## Refer to the [Handbook](Handbook.pdf)
 
 | Problem | Business Impact |
 |----------|----------------|
@@ -25,12 +25,14 @@ Modern airline retail complexity impacts every function across the enterprise, c
 ---
 # 📸 MVP Demo Clip
 
-This is a MVP of the product which is currently in development. We hope that you guys will like it and we are open for your reviews.
+This is a MVP which is currently in development phase. We hope that you guys will like it and we are open for your feedbacks.
 
-https://drive.google.com/file/d/1Qbq89tediODFLmMHsuXxcS8fL3zYgKlb/view?usp=sharing
+![MVP Demo](https://drive.google.com/file/d/1Qbq89tediODFLmMHsuXxcS8fL3zYgKlb/view?usp=sharing)
 
+![Job Application Demo](https://github.com/user-attachments/assets/57865ee6-6004-49d5-b2c2-6dff39ec2ba9)
+[Example code ↗](https://github.com/browser-use/browser-use/blob/main/examples/use-cases/apply_to_job.py)
 
-# 📸 Interface Overview
+# 📸 Interface Overview OF MVP
 
 FLX Genie integrates seamlessly into the daily workflow of enterprise teams.
 
