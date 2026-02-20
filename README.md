@@ -27,10 +27,8 @@ Modern airline retail complexity impacts every function across the enterprise, c
 
 This is a MVP which is currently in development phase. We hope that you guys will like it and we are open for your feedbacks.
 
-![MVP Demo](https://drive.google.com/file/d/1Qbq89tediODFLmMHsuXxcS8fL3zYgKlb/view?usp=sharing)
+https://drive.google.com/file/d/1Qbq89tediODFLmMHsuXxcS8fL3zYgKlb/view?usp=sharing
 
-![Job Application Demo](https://github.com/user-attachments/assets/57865ee6-6004-49d5-b2c2-6dff39ec2ba9)
-[Example code ↗](https://github.com/browser-use/browser-use/blob/main/examples/use-cases/apply_to_job.py)
 
 # 📸 Interface Overview OF MVP
 
@@ -151,6 +149,11 @@ FLX Genie is not a standalone chatbot; it is the central operating system of an 
 
 Attached few videos, for browser automation which can be helpful for sprk and can also act as a personal browser assistant. 
 
+![Demo](https://github.com/user-attachments/assets/57865ee6-6004-49d5-b2c2-6dff39ec2ba9)
+
+![Demo](https://github.com/user-attachments/assets/a6813fa7-4a7c-40a6-b4aa-382bf88b1850)
+
+![Demo](https://github.com/user-attachments/assets/ac34f75c-057a-43ef-ad06-5b2c9d42bf06)
 ---
 
 # 🔐 Enterprise-Grade Security & Compliance
