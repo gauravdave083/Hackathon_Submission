@@ -21,6 +21,12 @@ Modern airline retail complexity impacts every function across the enterprise, c
 > Your employees already want AI — they’re just not allowed to use it safely.
 
 ---
+# 📸 MVP Demo Clip
+
+This is a MVP of the product which is currently in development. We hope that you guys will like it and we are open for your reviews.
+
+https://drive.google.com/file/d/1Qbq89tediODFLmMHsuXxcS8fL3zYgKlb/view?usp=sharing
+
 
 # 📸 Interface Overview
 
