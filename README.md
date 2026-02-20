@@ -229,4 +229,4 @@ At **under $15 per employee per year**, FLX Genie unlocks massive productivity g
 FLX Genie is more than an AI assistant.
 
 It is the intelligent layer powering the future of airline retail —  
-where intelligence takes flight.
+Where intelligence takes flight.
