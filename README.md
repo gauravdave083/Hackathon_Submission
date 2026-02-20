@@ -151,7 +151,16 @@ Attached few videos, for browser automation which can be helpful for sprk and ca
 
 ![Demo](https://github.com/user-attachments/assets/57865ee6-6004-49d5-b2c2-6dff39ec2ba9)
 
+### 🍎 Grocery-Shopping
+#### Task = "Put this list of items into my instacart."
+
 https://github.com/user-attachments/assets/a6813fa7-4a7c-40a6-b4aa-382bf88b1850
+
+
+
+### 💻 Personal-Assistant.
+#### Task = "Help me find parts for a custom PC."
+
 https://github.com/user-attachments/assets/ac34f75c-057a-43ef-ad06-5b2c9d42bf06
 ---
 
