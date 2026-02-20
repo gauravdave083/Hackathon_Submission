@@ -143,6 +143,12 @@ FLX Genie is not a standalone chatbot; it is the central operating system of an 
 
 ---
 
+## 6. SPRK Browser Automation
+
+Attached few videos, for browser automation which can be helpful for sprk and can also act as a personal browser assistant. 
+
+---
+
 # 🔐 Enterprise-Grade Security & Compliance
 
 FLX Genie is built for organizations where data privacy is critical.
