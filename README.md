@@ -49,6 +49,7 @@ FLX Genie is designed on AWS Well-Architected principles, ensuring private, secu
 
 ![Chat Interface](Images/AWS.png)
 ![Chat Interface](Images/hld.png)
+![Chat Interface](Images/Screenshot 2026-02-19 113907.png)
 
 ## Architecture Components
 
