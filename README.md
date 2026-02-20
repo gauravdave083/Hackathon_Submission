@@ -40,7 +40,7 @@ FLX Genie integrates seamlessly into the daily workflow of enterprise teams.
 FLX Genie is designed on AWS Well-Architected principles, ensuring private, secure, and observable AI adoption.
 
 ![Chat Interface](Images/AWS.png)
-![Chat Interface](Images/high_level_diagram.png)
+![Chat Interface](Images/hld.png)
 
 ## Architecture Components
 
