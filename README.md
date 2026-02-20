@@ -10,7 +10,7 @@ The airline retailing ecosystem, heavily powered by NDC APIs, has grown highly c
 
 Modern airline retail complexity impacts every function across the enterprise, creating heavy dependence on tribal knowledge.
 
-Refer to the Handbook [handbook](Handbook.pdf)
+## Refer to the [handbook](Handbook.pdf)
 
 | Problem | Business Impact |
 |----------|----------------|
